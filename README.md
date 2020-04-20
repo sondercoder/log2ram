@@ -1,5 +1,10 @@
-# Log2Ram
+# pihole-sync2Ram
+(this is not ready at all, please use azlux/log2ram for log2ram function)
 Like ramlog for systemd (on debian 8 jessie for example).
+
+Useful when you are running two pihole instances, and you are using 'docker-pihole-sync'.  This is based on using my fork of that project, but could be adapted to work on any pihole setup.
+
+Notes will be updated as script progresses.
 
 Usefull for **RaspberryPi** for not writing on the SD card all the time. You need it because your SD card doesn't want to suffer anymore!
 
